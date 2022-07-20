@@ -7,8 +7,7 @@
 <script>
 // @ is an alias to /src
 
-
-import ContentSection from '../components/ContentSection.vue'
+import ContentSection from '@/components/ContentSection.vue'
 
 export default {
   name: 'HomeView',
